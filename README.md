@@ -2,25 +2,11 @@
 
 ## Contents
 
-- [Learning Objectives](#learning-objectives)
 - [Suggested Study](#suggested-study)
-- Break-Down
-  - [Week 1](#week-1)
-  - [Week 2](#week-2)
 - [Class Recordings](#class-recordings)
-- [study.hackyourfuture.be](https://study.hackyourfuture.be)
 - [home.hackyourfuture.be](https://home.hackyourfuture.be/)
 
 ---
-
-## Learning Objectives
-
-What can you expect to learn in this module?
-
-[TOP](#frontend-frameworks)
-
----
-
 ## Suggested Study
 
 ### Repos of Practice
@@ -33,38 +19,6 @@ What can you expect to learn in this module?
 - [Amsterdam](https://github.com/HackYourFuture/React)
 - [Copenhagen](https://github.com/HackYourFuture-CPH/React)
 - [London](https://syllabus.codeyourfuture.io/react/index/)
-
-[TOP](#frontend-frameworks)
-
----
-
-## Week 1
-
-### Before Class
-
-### During Class
-
-#### Before Break
-
-#### After Break
-
-### After Class
-
-[TOP](#frontend-frameworks)
-
----
-
-## Week 2
-
-### Before Class
-
-### During Class
-
-#### Before Break
-
-#### After Break
-
-### After Class
 
 [TOP](#frontend-frameworks)
 

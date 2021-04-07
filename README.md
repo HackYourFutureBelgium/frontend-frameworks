@@ -9,16 +9,15 @@
 ---
 ## Suggested Study
 
-### Repos of Practice
+### React Modules
 
-- [Katacodas by Marielle](https://www.katacoda.com/widged/courses/hackyourfuture-react/)
-- [HYF Belgium](https://github.com/HackYourFutureBelgium/react) - tested exercises and small projects
+All of the HYF's have built their own React modules, take a look and find the one that works for you:
 
-### Other HYFs to study
-
+- [Belgium](https://github.com/HackYourFutureBelgium/react)
 - [Amsterdam](https://github.com/HackYourFuture/React)
 - [Copenhagen](https://github.com/HackYourFuture-CPH/React)
 - [London](https://syllabus.codeyourfuture.io/react/index/)
+
 
 [TOP](#frontend-frameworks)
 
@@ -50,9 +49,9 @@
   
 ## class-9-10
 
-> [Marielle](http://widged.com/portfolio/), [Kelley](https://klve.nl/), 
+> [Marielle](http://widged.com/portfolio/), [Kelley](https://klve.nl/)
 
-- Week 1: [recording](https://vimeo.com/485106233), [katacoda](https://www.katacoda.com/widged/courses/hackyourfuture-react/1-components)
+- Week 1: [recording](https://vimeo.com/485106233), [katacoda](https://www.katacoda.com/widged/courses/hackyourfuture-react)
 
 > [Shriyans](https://github.com/shrynx) (HYF Amsterdam)
 
